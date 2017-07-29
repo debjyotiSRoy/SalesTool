@@ -5,6 +5,8 @@ public class Main {
 	public static void main(String[] args) {
 		SalesData data = new SalesData();
 		
+		System.out.println("This is a test branch")
+		
 		displayGreeting();
 		data.display();
 	}
